@@ -38,7 +38,7 @@ Test Recall : 90.4 %
 
 So, BALANCED BAGGING CLASSIFIER (RANDOM FOREST as BASE) performs best among all as an ensemble technique on this dataset.
 
-Unsupervised Machine Learning Approach
+# Unsupervised Machine Learning Approach
 We approached the signal detection from background as Anomaly detection problem and assumed that each feature is independent in the row. There are several ways to approach this problem in unsupervised fashion:
 
 Autoencoders can be used in an unsupervised fashion.
